@@ -1,5 +1,5 @@
 # Twitch_Troubleshooting
-## Twitch 常見問題 By 小宇是我
+## Twitch 常見問題 By 小宇是我 
 1. OBS擷取不到LOL遊戲視窗
    視窗擷取右鍵 => 屬性 => 擷取方式 => 選Windows 10
    
@@ -32,9 +32,10 @@
 
       7. 設定進階音軌
          找到剛剛新增音軌點選點點點 => 進階音訊屬性
-         ![image](https://github.com/JackShih200190/Twitch_Troubleshooting/assets/55253641/5df518e5-5e38-4ec6-a5f2-e495860b8758)
-  
+
          ※只需要更改剛剛新增的音軌其他不用更改，只勾選 **音軌1** 其他取消勾選
+         
+         ![image](https://github.com/JackShih200190/Twitch_Troubleshooting/assets/55253641/5df518e5-5e38-4ec6-a5f2-e495860b8758)
          ![image](https://github.com/JackShih200190/Twitch_Troubleshooting/assets/55253641/89f7bdcf-c20b-428c-a45d-999af2a90cf0)
 
 
