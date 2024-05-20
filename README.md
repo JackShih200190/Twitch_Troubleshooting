@@ -5,10 +5,6 @@
    
    ![image](https://github.com/JackShih200190/Twitch_Troubleshooting/assets/55253641/758d6fa7-a8c4-4ef6-a041-8186786a0310)
 
-https://github.com/JackShih200190/Twitch_Troubleshooting/assets/55253641/4c0c0082-14b1-42ba-b427-27dafb555312
-
-
- 
 2. 音軌分離防止DMCA
    1. 安裝SteelSeries GG (建議使用)
    2. 使用OBS內建擷取應用程式音軌 (目前屬於Beta狀態)
