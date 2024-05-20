@@ -10,10 +10,14 @@
    2. 使用OBS內建擷取應用程式音軌 (目前屬於Beta狀態)
 
    ### SteelSeries GG
-   1. 將**遊戲、聊天、媒體、AUX**都設定為你所使用的耳機
+      1. 將**遊戲、聊天、媒體、AUX**都設定為你所使用的耳機
 
-   ![image](https://github.com/JackShih200190/Twitch_Troubleshooting/assets/55253641/9e2dc66e-c76a-4589-afbc-9e5ab90dce84)
+      ![image](https://github.com/JackShih200190/Twitch_Troubleshooting/assets/55253641/9e2dc66e-c76a-4589-afbc-9e5ab90dce84)
 
-   2. 系統的預設選擇 SteelSeries Sonar - Gaming
+      2. 系統的預設選擇 SteelSeries Sonar - Gaming
 
-   ![image](https://github.com/JackShih200190/Twitch_Troubleshooting/assets/55253641/8ef347b0-f2d1-42e5-84ec-7d05135fdda8)
+      ![image](https://github.com/JackShih200190/Twitch_Troubleshooting/assets/55253641/8ef347b0-f2d1-42e5-84ec-7d05135fdda8)
+
+      3. 將瀏覽器(Edge、Chroem、Brave等等)從**_遊戲音軌_**拉到**_媒體音軌_**
+  
+      ![2024-05-21 03-14-25](https://github.com/JackShih200190/Twitch_Troubleshooting/assets/55253641/2a22d8ab-71e4-4b0b-94c1-723d103c2ea2)
