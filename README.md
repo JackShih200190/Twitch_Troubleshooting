@@ -20,6 +20,6 @@
 
       3. 將瀏覽器(Edge、Chroem、Brave等等)從 **遊戲音軌**拉到**媒體音軌**
 
-      https://github.com/JackShih200190/Twitch_Troubleshooting/assets/55253641/2b7dde2f-5a4a-4519-b448-44527bfbd69f
+      ![video](https://github.com/JackShih200190/Twitch_Troubleshooting/assets/55253641/2b7dde2f-5a4a-4519-b448-44527bfbd69f)
 
 
