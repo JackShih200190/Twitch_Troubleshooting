@@ -4,6 +4,10 @@
    視窗擷取右鍵 => 屬性 => 擷取方式 => 選Windows 10
    
    ![image](https://github.com/JackShih200190/Twitch_Troubleshooting/assets/55253641/758d6fa7-a8c4-4ef6-a041-8186786a0310)
+
+https://github.com/JackShih200190/Twitch_Troubleshooting/assets/55253641/4c0c0082-14b1-42ba-b427-27dafb555312
+
+
  
 2. 音軌分離防止DMCA
    1. 安裝SteelSeries GG (建議使用)
@@ -19,5 +23,7 @@
       ![image](https://github.com/JackShih200190/Twitch_Troubleshooting/assets/55253641/8ef347b0-f2d1-42e5-84ec-7d05135fdda8)
 
       3. 將瀏覽器(Edge、Chroem、Brave等等)從**_遊戲音軌_**拉到**_媒體音軌_**
-  
-      ![2024-05-21 03-14-25](https://github.com/JackShih200190/Twitch_Troubleshooting/assets/55253641/2a22d8ab-71e4-4b0b-94c1-723d103c2ea2)
+
+      https://github.com/JackShih200190/Twitch_Troubleshooting/assets/55253641/2b7dde2f-5a4a-4519-b448-44527bfbd69f
+
+
