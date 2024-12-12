@@ -1,6 +1,7 @@
 # Twitch 常見問題 By 小宇是我
-會持續更新實況主們遇到的問題並且更新上來
+### 會持續更新實況主們遇到的問題並且更新上來
 ---
+
 1. OBS擷取不到LOL遊戲視窗
    視窗擷取右鍵 => 屬性 => 擷取方式 => 選Windows 10
    
@@ -39,5 +40,13 @@
          ![image](https://github.com/JackShih200190/Twitch_Troubleshooting/assets/55253641/5df518e5-5e38-4ec6-a5f2-e495860b8758)
          ![image](https://github.com/JackShih200190/Twitch_Troubleshooting/assets/55253641/89f7bdcf-c20b-428c-a45d-999af2a90cf0)
 
-
+# 相機走擷取盒設定問題
+1. OBS擷取相機畫面卡頓
+   - 擷取盒端驅動格式設定
+   - YY格式設定
+   - OBS格式設定
+   - USB接口速度和位置
+2. 相機設定
+   - HDMI資訊關閉
+   - ISO、快門等等設定
 
