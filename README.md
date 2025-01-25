@@ -61,7 +61,7 @@
    2. Delete full OBS
    3. Reinstall OBS(Recommended use portable version)
 
-> [!INFO]  
+> [!NOTE]  
 > 目前31.0會遇到此問題但也有概率遇不到，一但遇到可以使用上述方式來解決
 
 > [!IMPORTANT]  
