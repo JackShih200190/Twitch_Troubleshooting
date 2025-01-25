@@ -52,3 +52,17 @@
 
 # 遊戲擷取畫面卡頓
    1. 檢查OBS所有場景是否有重複的遊戲解取畫面
+
+# OBS 31.0版本Game Capture問題
+[Offical OBS Document](https://obsproject.com/kb/capture-hook-certificate-update)
+當遇到Game Capture抓取VALORANT時遊戲卡住可解決的方式：
+1.When you Using OBS 31.0 Version
+   1. backup scene
+   2. Delete full OBS
+   3. Reinstall OBS(Recommended use portable version)
+
+> [!INFO]  
+> 目前31.0會遇到此問題但也有概率遇不到，一但遇到可以使用上述方式來解決
+
+> [!IMPORTANT]  
+> 當你遇到Game Capture無法抓取VALORANT時一定要徹底刪除OBS，不然就算你使用舊版OBS也會有抓取不到的問題
