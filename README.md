@@ -56,7 +56,7 @@
 # OBS 31.0版本Game Capture問題
 [Offical OBS Document](https://obsproject.com/kb/capture-hook-certificate-update)
 當遇到Game Capture抓取VALORANT時遊戲卡住可解決的方式：
-1.When you Using OBS 31.0 Version
+1. When you Using OBS 31.0 Version
    1. backup scene
    2. Delete full OBS
    3. Reinstall OBS(Recommended use portable version)
